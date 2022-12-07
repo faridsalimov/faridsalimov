@@ -1,5 +1,5 @@
-# 💫 About Me:
-🌱 Hi folks, I'm Farid!<br>I’m currently learning - C++ OOP<br>💬 Ask me about (C++, Python, LUA, HTML)
+# 👋 Hi folks, I'm Farid!:
+🌱 I’m currently learning - C++ OOP<br>💬 Ask me about (C++, Python, LUA, HTML)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jPvQX8ZZSp) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@FreezyMTA) 
