@@ -1,4 +1,4 @@
-# 👋 Hi folks, I'm Farid!:
+# 👋 Hi folks, I'm Farid!
 🌱 I’m currently learning - C++ OOP<br>💬 Ask me about (C++, Python, LUA, HTML)
 
 ## 🌐 Socials:
