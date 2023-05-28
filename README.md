@@ -7,7 +7,7 @@
 ---
 # 🙋‍♂️ About Me:
 - 👋 Hi folks, I'm Farid!
-- 🌱 I’m currently learning UML.
+- 🌱 I’m currently learning ADO.NET.
 - 👯 I’m looking to collaborate with other developers.
 
 ---
