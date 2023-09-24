@@ -1,39 +1,37 @@
-<h1 align="center"> 
-<img src="https://github.com/freezy-create/freezy-create/blob/main/name.svg" width="600px"></h1>
-<h1 align="center">
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="55px">
-</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D80032&height=120&section=header"/>
 
----
-# 🙋‍♂️ About Me:
-- 👋 Hi folks, I'm Farid!
-- 👯 I’m looking to collaborate with other developers.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D80032&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Farid!;I'm+16+years+old.;I'm+from+Azerbaijan.;I'm+Software+Developer!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
----
-# 🌐 Contact Me:
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NtCfRQHQRj)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/feridxyz)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/freezy-create)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selimovferid85@gmail.com)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=freezy-create&bg_color=0d1117&color=D80032&line=D80032&point=F78CA2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-# 💻 Languages:
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=freezy-create&show_icons=true&count_private=true&hide_border=true&title_color=D80032&icon_color=D80032&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freezy-create&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+</div>
 
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=freezy-create&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=freezy-create&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=freezy-create&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-# 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=freezy-create&margin-w=15theme=dark)
+<div align="center"> 
+  <a href="https://instagram.com/feridxyz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href="https://www.youtube.com/channel/UCrM8PtwftmmqtU63k2dpU5g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="mailto:selimovferid85@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+ 
+ ### Main skills:
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
----
-![](https://komarev.com/ghpvc/?username=freezy-create&color=green)
+### Studying in this moment:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{freezy-create}/count.svg" /></p> 
+  <br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D80032&height=120&section=footer"/>
