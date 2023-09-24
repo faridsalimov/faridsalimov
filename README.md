@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D80032&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e1692f&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D80032&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Farid!;I'm+16+years+old.;I'm+from+Azerbaijan.;I'm+Software+Developer!;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e1692f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Farid!;I'm+16+years+old.;I'm+from+Azerbaijan.;I'm+Software+Developer!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=freezy-create&bg_color=0d1117&color=D80032&line=D80032&point=F78CA2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=freezy-create&bg_color=0d1117&color=e1692f&line=e1692f&point=e1692f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=freezy-create&show_icons=true&count_private=true&hide_border=true&title_color=D80032&icon_color=D80032&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=freezy-create&show_icons=true&count_private=true&hide_border=true&title_color=e1692f&icon_color=e1692f&text_color=c9d1d9&bg_color=0d1117" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freezy-create&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </div>
 
@@ -34,4 +34,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D80032&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e1692f&height=120&section=footer"/>
