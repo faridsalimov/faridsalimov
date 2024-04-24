@@ -5,8 +5,8 @@
 [![Farid's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faridsalimov&bg_color=0d1117&color=e1692f&line=e1692f&point=e1692f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=freezy-create&show_icons=true&count_private=true&hide_border=true&title_color=e1692f&icon_color=e1692f&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freezy-create&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=faridsalimov&show_icons=true&count_private=true&hide_border=true&title_color=e1692f&icon_color=e1692f&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faridsalimov&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 <div align="center"> 
@@ -31,7 +31,7 @@
 
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{freezy-create}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{faridsalimov}/count.svg" /></p> 
   <br>
 </div>
 
